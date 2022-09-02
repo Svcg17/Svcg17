@@ -2,14 +2,11 @@
 
 <img src="https://media.giphy.com/media/gSJ5Q7Uh8Fi4E/giphy.gif">
 
-### Find Me :eyes:
-:heart:
-<a href="https://twitter.com/sofivism">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+### Social
 <a href="https://www.linkedin.com/in/sofiacheung">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br>
 
 ### Tools and Languages :wrench:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
@@ -28,4 +25,3 @@
 - Languages: Spanish, English :stuck_out_tongue_closed_eyes:
 - Interests: :art: :running_woman: :bread: :computer: :cherry_blossom: :notes: :whale: :sleeping_bed: :woman_dancing:
 - Fav Coding Language: JavaScript :medal_military:
-- Currently working on: A Trivia website with TypeScript :computer:
